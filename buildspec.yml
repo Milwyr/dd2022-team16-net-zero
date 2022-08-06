@@ -4,7 +4,7 @@ phases:
   install:
     commands: npm install
   build:
-    commands: ng build
+    commands: npm build
 
 artifacts:
   files:
